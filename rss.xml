@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[3DLand]]></title>
+        <description><![CDATA[3DLand]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 06 Nov 2015 07:17:37 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Welcome Mat]]></title>
+            <description><![CDATA[<article><h1>Welcome Mat</h1><p>Welcome to our Time Machine</p></article>]]></description>
+            <link>undefinedwelcome-mat/index.html</link>
+            <guid isPermaLink="false">1ac65707-cc82-455f-ad78-788669d3124a</guid>
+            <pubDate>Fri, 06 Nov 2015 07:17:28 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
