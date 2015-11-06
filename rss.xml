@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[3DLand]]></title>
         <description><![CDATA[3DLand]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/3dland/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 06 Nov 2015 07:17:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 06 Nov 2015 07:18:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/3dland/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://lh3.googleusercontent.com/-mbyyPVY3qKQ/VOY-79MinII/AAAAAAAGi9Y/2VAQ8n8s1Zs/s912-Ic42/20150219_125141.jpg">]]></description>
+            <link>https://thegrid.ai/3dland/03e4fa7e-3217-461f-ae41-8b56e54a72ed/index.html</link>
+            <guid isPermaLink="false">03e4fa7e-3217-461f-ae41-8b56e54a72ed</guid>
+            <pubDate>Fri, 06 Nov 2015 07:17:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Welcome Mat]]></title>
             <description><![CDATA[<article><h1>Welcome Mat</h1><p>Welcome to our Time Machine</p></article>]]></description>
-            <link>undefinedwelcome-mat/index.html</link>
+            <link>https://thegrid.ai/3dland/welcome-mat/index.html</link>
             <guid isPermaLink="false">1ac65707-cc82-455f-ad78-788669d3124a</guid>
             <pubDate>Fri, 06 Nov 2015 07:17:28 GMT</pubDate>
         </item>
