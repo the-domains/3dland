@@ -4,7 +4,7 @@
         <description><![CDATA[3D Robots]]></description>
         <link>https://thegrid.ai/3dland/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 17 Nov 2015 16:47:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Nov 2015 16:52:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/3dland/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Why]]></title>
@@ -61,12 +61,6 @@
             <link>http://www.magisto.com/album/video/LzYhAAVSBAZ7NjoPYnZLB3w</link>
             <guid isPermaLink="false">15da9532-7da0-49fd-8c55-15088c8b2b87</guid>
             <pubDate>Mon, 09 Nov 2015 18:28:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <link>https://thegrid.ai/3dland/e1c0b200-53cf-4123-997f-652ca7aca6af/index.html</link>
-            <guid isPermaLink="false">e1c0b200-53cf-4123-997f-652ca7aca6af</guid>
-            <pubDate>Mon, 09 Nov 2015 18:07:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
