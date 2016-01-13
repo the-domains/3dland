@@ -4,8 +4,15 @@
         <description><![CDATA[3D Robots]]></description>
         <link>https://thegrid.ai/3dland/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 17 Nov 2015 18:05:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jan 2016 05:49:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/3dland/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[BlindsParts on Shapeways]]></title>
+            <description><![CDATA[<article><h1>BlindsParts on Shapeways</h1><p>Check out BlindsParts 's designs and products on Shapeways and learn more about the products, skills and services offered by BlindsParts.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e29a5c69936d2b83f5a97dae8e945e8fce672b6f.jpg"></article>]]></description>
+            <link>https://www.shapeways.com/designer/blindsparts</link>
+            <guid isPermaLink="false">ed6601c3-2ddb-43ae-8db1-3777f2e29699</guid>
+            <pubDate>Wed, 13 Jan 2016 05:48:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://du4adv3txw51d.cloudfront.net/wp-content/uploads/2015/09/Q-QardioCore-New-Header.jpg?ver=1.0">]]></description>
@@ -22,7 +29,7 @@
         </item>
         <item>
             <title><![CDATA[Why]]></title>
-            <description><![CDATA[<article><h1>Why</h1><p>So Much</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/062e634a-1de2-4e3b-9efe-883cd1899879.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Why</h1><p>So Much</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/006f3a7582cf9cf92eb97f6074de180a8a89db3d.jpg"></article>]]></description>
             <link>https://thegrid.ai/3dland/why/index.html</link>
             <guid isPermaLink="false">434c6e25-7e0d-4f90-8a94-9af416270b2b</guid>
             <pubDate>Tue, 17 Nov 2015 16:56:15 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/3dland/06fb0695-01d0-4be6-b392-b49c62901be0/index.html</link>
             <guid isPermaLink="false">06fb0695-01d0-4be6-b392-b49c62901be0</guid>
             <pubDate>Fri, 13 Nov 2015 22:28:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[You Robot]]></title>
-            <description><![CDATA[<article><h1>You Robot</h1><p>Created using Magisto on November 8, 2015. Share your story using the free video editing app that transforms your photos and videos with the swipe of your finger. Available for Android and iOS.</p><img src="http://d3im4g4qkg9lj9.cloudfront.net/OwMeZVQSESFpW0FnCzE"></article>]]></description>
-            <link>http://www.magisto.com/album/video/LzYhAAVSBAZ7NjoPYnZLB3w</link>
-            <guid isPermaLink="false">15da9532-7da0-49fd-8c55-15088c8b2b87</guid>
-            <pubDate>Mon, 09 Nov 2015 18:28:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
